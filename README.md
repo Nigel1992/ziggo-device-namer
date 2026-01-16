@@ -1,34 +1,12 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
+# Support Any Cause 🌍
 
-# Ziggo Device Namer
+Thank you for your generosity! You can donate here using **PayPal, Visa, or Mastercard**.
 
-A Tampermonkey userscript that lets you add custom labels to devices on your Ziggo GigaBox router interface.
+### Your Impact:
+* **95%** of your donation goes to **any charity of your choosing**. Please mention the name of the organization in your donation message!
+* **5%** goes toward **Ko-fi project development** to help maintain and grow the platform.
 
-## Features
+**Recognition:** Every donor will be officially listed as a **Supporter** on this project page/app/software/etc as a token of our appreciation.
 
-- 🏷️ Add custom names to any connected device
-- 💾 Labels persist in your browser's local storage
-- 🔄 Works on both status and DHCP pages
-- ✏️ Easy inline editing with click-to-edit
-- ❌ One-click reset to original name
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nigel1992)
 
-## Installation
-
-1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser
-2. Click [here](script.js) to view the script
-3. Copy the contents and create a new Tampermonkey script
-4. Save and navigate to your Ziggo GigaBox (192.168.178.1 or 192.168.1.1)
-
-## Usage
-
-Click on any device name to edit it. Your custom labels will be displayed in orange, with the original name shown in gray.
-
-## Supported Routers
-
-- Ziggo GigaBox (192.168.178.1)
-- Ziggo GigaBox (192.168.1.1)
-- gwlogin.net
-
-## License
-
-MIT
