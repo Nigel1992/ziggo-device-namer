@@ -5,6 +5,8 @@
 
 # Ziggo Device Namer
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 A Tampermonkey userscript that lets you add custom labels to devices on your Ziggo GigaBox router interface.
 
 ## Features
